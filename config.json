@@ -1,0 +1,10 @@
+{
+    "api": {
+      "port": 3000,
+      "openai_key": "sk-xxx"
+    },
+    "contract": {
+      "address": "0x...",
+      "network": "bitcoin_regtest"
+    }
+  }
